@@ -1,3 +1,7 @@
+/*
+S.M. Sayeed
+CSE'12 JUST
+*/
 #include<iostream>
 #include<cmath>
 using namespace std;
